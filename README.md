@@ -1,6 +1,6 @@
 # Inspect AI Evals
 
-This project is focused on learning AI model evaluations using the UK AI Safety evaluation framework, `inspect_ai`. The goal is to understand both evaluations and the framework by going through the documentation, working through examples, and conducting experiments.
+This project is for learning AI model evaluations using the UK AI Security Institute's evaluation framework, `inspect_ai`. The goal is to understand both evaluations and the framework by going through the documentation, working through examples, and conducting experiments.
 
 ## Objectives
 
@@ -14,7 +14,7 @@ Clone the repository:
 
 ## Resources
 
-- [Inspect AI Documentation](https://inspect.ai-safety-institute.org.uk/)
+- [Inspect AI Documentation](https://inspect.ai-security-institute.org.uk/)
 - [Github](https://github.com/UKGovernmentBEIS/inspect_ai)
 
 ## Contributing
